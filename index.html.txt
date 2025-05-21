@@ -1,0 +1,27 @@
+<div style="background-color: #FF6F00; padding: 20px;">
+    <img src="https://example.com/thank-you-page.jpg" alt="Nike KD Trey 5X Thank You Page" style="width: 100%; max-width: 600px; display: block; margin: 0 auto;" />
+    <h1 style="font-family: Arial, sans-serif; font-size: 30px; color: black; text-align: center;">THANK YOU</h1>
+    <p style="font-family: Arial, sans-serif; font-size: 16px; color: black; text-align: center;">Your submission was successful</p>
+    <a href="/shopping-cart" style="background-color: black; color: white; padding: 10px 20px; text-decoration: none; display: block; text-align: center;">Back to Shopping</a>
+</div>
+<div style="margin-top: 20px; text-align: center;">
+    <h2 style="font-family: Arial, sans-serif; font-size: 20px; color: black;">Related Recommendations</h2>
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+        <div style="text-align: center;">
+            <img src="https://example.com/knee-brace.jpg" alt="Knee Brace" style="width: 100px; height: 100px; object-fit: cover;" />
+            <p>Knee Brace</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="https://example.com/socks.jpg" alt="Socks" style="width: 100px; height: 100px; object-fit: cover;" />
+            <p>Socks</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="https://example.com/hair-band.jpg" alt="Hair Band" style="width: 100px; height: 100px; object-fit: cover;" />
+            <p>Hair Band</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="https://example.com/basketball.jpg" alt="Basketball" style="width: 100px; height: 100px; object-fit: cover;" />
+            <p>Basketball</p>
+        </div>
+    </div>
+</div>
